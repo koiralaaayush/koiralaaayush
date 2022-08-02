@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate backend developer from Central Valley</h3>
 
-- 🔭 I’m currently working on **Cable Management System**
-
 - 🌱 I’m currently learning **React & AWS**
 
 - 👯 I’m looking to collaborate on **open source projects**
