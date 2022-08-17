@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React & AWS**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 💬 Ask me about **if I can join your team!**
 
 - 📫 How to reach me **koiralaaayush1@gmail.com**
