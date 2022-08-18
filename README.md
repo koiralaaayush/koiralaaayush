@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **if I can join your team!**
 
-- 📫 How to reach me **koiralaaayush1@gmail.com**
+- 📫 How to reach me **koiralaaayush@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
