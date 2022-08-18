@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate developer from Central Valley</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**!
 
 - 💬 Ask me about **if I can join your team!**
 
