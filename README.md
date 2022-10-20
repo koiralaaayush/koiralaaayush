@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">A passionate developer from Central Valley</h3>.
+<h3 align="center">A passionate developer from Central Valley./h3>
 
 - 🌱 I’m currently learning **Docker**!
 - 📫 Reach me at **koiralaaayush@protonmail.com**
