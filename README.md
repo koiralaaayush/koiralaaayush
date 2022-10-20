@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer from Central Valley</h3>
 
 - 🌱 I’m currently learning **Docker**!
-
-- 💬 Ask me about **if I can join your team!**
-
 - 📫 How to reach me **koiralaaayush@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
